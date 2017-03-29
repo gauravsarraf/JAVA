@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=rollno\ sub1\ sub2\ sub3
+comment0.target=void\ marks(int[],\ int[],\ int[],\ int[])
+numComments=1

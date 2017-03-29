@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=dequeue(int)
+comment1.params=item
+comment1.target=void\ Insert_front(int)
+comment2.params=item
+comment2.target=void\ Insert_rear(int)
+comment3.params=
+comment3.target=int\ Delete_front()
+comment4.params=
+comment4.target=int\ Delete_rear()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
